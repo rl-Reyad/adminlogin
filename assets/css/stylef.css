@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.bg-img{
+    background-image: url(../../img/wallpapersden.com_valorant-viper-cinematic_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.mid-form{
+    margin: 10% auto;
+    width: 710px;
+    background-color: #7a858ab3;
+}
+.mid-form img{
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+}
+.mid-form h1{
+    margin: 10px auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fbe2b5;
+}
+.f-form{
+    display: block;
+    margin-bottom: 10px;
+    width: 385px;
+    padding: 10px;
+    margin: 10px auto;
+    border: 0 solid transparent;
+    border-radius: 14px 5px;
+}
+.login-btn{
+    display: block;
+    margin: auto;
+    width: 155px;
+    padding: 7px;
+    background-color: #8bc34a;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    font-size: initial;
+    box-shadow: 4px 3px 5px seashell;
+    transition: 0.5s ease-in-out;
+    border-radius: 30px;
+}
+.login-btn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: #000000;
+    box-shadow: 4px 3px 5px cyan;
+}
+.mid-form a{
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+.mid-form a:hover{
+    cursor: pointer;
+    color: aqua;
+}
+
+
+
+
+
+
